@@ -45,6 +45,3 @@ The backup seed phrase is a critical component of securing your Status account. 
 
 ***
 
-
-
-
