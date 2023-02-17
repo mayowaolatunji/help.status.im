@@ -36,7 +36,7 @@ The backup seed phrase is a critical component of securing your Status account. 
 
 * ### To Recover your Status account Using your recovery Seed Phrase:
 
-If you forgot the password to your Status account or lost Access to your Device, you can recover via the following steps.
+   If you forgot the password to your Status account or lost Access to your Device, you can recover via the following steps.
 
 1. Click on `Access existing keys` to start the recovery.
 2. Select `Recover with seed phrase` to enter your seed phrase.
