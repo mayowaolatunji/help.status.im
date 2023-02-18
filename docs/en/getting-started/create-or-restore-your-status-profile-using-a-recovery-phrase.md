@@ -12,7 +12,7 @@ hide:
 **Prerequisite:**
 Download status on [status.im/get](https://status.im/get/) & install for setup.
 
-## Fill out the user profile
+##  How To Create A profile on Status.
      Below are the few steps required to set up your user profile on status:
 
 1. Open your Status App
@@ -23,7 +23,7 @@ Download status on [status.im/get](https://status.im/get/) & install for setup.
 After onboarding, you have automatically have access to your `chat key` & `Seed recovery Phrase` to your status account.
 
 
-### How To Access & Backup Your Seed phrase:
+## How To Access & Backup Your Seed phrase
 The backup seed phrase is a critical component of securing your Status account. It allows you to regain access to your account at the event of a lost, stolen, or damaged device, or a forgotten password.
 
 * ### To Access Your Recovery Seed Phrase:
